@@ -1,4 +1,6 @@
-
+analyses/
+snapshots/
+tests/
 target/
 dbt_packages/
 logs/
